@@ -1,21 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Omar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Hi there, I'm Ibrahim Amr! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-amr&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim-amr" /> </p>
+I'm a frontend developer based in Cairo, Egypt with experience building web applications using modern technologies like React, Redux, and TypeScript. I'm passionate about creating beautiful and intuitive user interfaces and love to experiment with new tools and frameworks.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim-amr" alt="ibrahim-amr" /></a> </p>
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on [Twitter clone](https://ibrahim-amr.github.io/twitter-v2/)
+- **Languages:** JavaScript (ES6+), HTML, CSS, TypeScript
+- **Frameworks/Libraries:** React, Redux, Next.js, Material-UI
+- **Tools:** Git, VS Code, Webpack, Babel, Jest, Cypress
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-omar-883156253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-omar-883156253/" height="30" width="40" /></a>
-</p>
+## 🔭 Current Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- [Project 1](https://github.com/Ibrahim-Amr/project1) - A responsive e-commerce website built with Next.js, Redux, and Material-UI.
+- [Project 2](https://github.com/Ibrahim-Amr/project2) - A social media app built with React and Firebase that allows users to share their thoughts and connect with others.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-amr&show_icons=true&locale=en&layout=compact" alt="ibrahim-amr" /></p>
+## 🌱 Learning
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-amr&show_icons=true&locale=en" alt="ibrahim-amr" /></p>
+I'm always looking to expand my knowledge and learn new things. Currently, I'm focusing on mastering GraphQL and learning more about serverless architectures.
+
+## 💬 Let's Connect
+
+If you're interested in collaborating on a project or just want to chat about web development, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ibrahimamr) or [Twitter](https://twitter.com/IbrahimAmr_).
+
+## 📈 GitHub Stats
+
+[![Ibrahim-Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Amr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
