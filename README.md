@@ -1,27 +1,16 @@
-# Hi there, I'm Ibrahim Amr! 👋
+# 💫 About Me:
+Hi there! My name is Ibrahim Omar, and I'm a frontend developer with a focus on React JS. I have 1 year of experience building web applications, and I'm passionate about creating intuitive user experiences that delight users.<br><br>My skills include:<br><br>    Strong proficiency in React JS and related libraries such as Redux, React Router, and Next.js<br>    Experience with modern front-end development tools such as Webpack, Babel, and ESLint<br>    Knowledge of HTML, CSS, and JavaScript, including ES6 syntax<br>    Familiarity with testing frameworks such as Jest and Enzyme<br>    Understanding of RESTful APIs and GraphQL<br><br>In my previous roles, I've had the opportunity to work on a wide range of projects, from small <br>prototypes to large-scale web applications used by millions of users. <br>I thrive in fast-paced environments and enjoy collaborating with other developers, <br>designers, and stakeholders to deliver high-quality software.<br><br>Outside of work, I enjoy experimenting with new technologies and building side projects. <br>I'm always looking to expand my skill set and stay up-to-date with the latest trends in front-end development.<br><br>If you'd like to learn more about my experience and skills, feel free to check out my portfolio at https://ibrahim-amr.github.io/portfolio_v2/ or get in touch at ebrahimamra69@gmail.com. I'd love to chat!
 
-I'm a frontend developer based in Cairo, Egypt with experience building web applications using modern technologies like React, Redux, and TypeScript. I'm passionate about creating beautiful and intuitive user interfaces and love to experiment with new tools and frameworks.
 
-## 🛠️ Tech Stack
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-omar-883156253/) 
 
-- **Languages:** JavaScript (ES6+), HTML, CSS, TypeScript
-- **Frameworks/Libraries:** React, Redux, Next.js, Material-UI
-- **Tools:** Git, VS Code, Webpack, Babel, Jest, Cypress
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahim-Amr&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
 
-## 🔭 Current Projects
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- [Project 1](https://github.com/Ibrahim-Amr/project1) - A responsive e-commerce website built with Next.js, Redux, and Material-UI.
-- [Project 2](https://github.com/Ibrahim-Amr/project2) - A social media app built with React and Firebase that allows users to share their thoughts and connect with others.
-
-## 🌱 Learning
-
-I'm always looking to expand my knowledge and learn new things. Currently, I'm focusing on mastering GraphQL and learning more about serverless architectures.
-
-## 💬 Let's Connect
-
-If you're interested in collaborating on a project or just want to chat about web development, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ibrahimamr) or [Twitter](https://twitter.com/IbrahimAmr_).
-
-## 📈 GitHub Stats
-
-[![Ibrahim-Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Amr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
